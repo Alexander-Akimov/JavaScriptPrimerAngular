@@ -1,6 +1,7 @@
 {
   "name": "java-script-primer-angular",
   "version": "0.0.0",
+  "description": "angular6 3rd ed",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
